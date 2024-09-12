@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7oGKoknhRmoU1FJoBBsJ-11" value="Calcula:&amp;nbsp;&lt;div&gt;&lt;i&gt;suma = dice_1 + dice_2 + dice_3&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="420" width="200" height="40" as="geometry" />
+          <mxGeometry x="20" y="482" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qTLemAw9fTwaRKKmpUbJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qTLemAw9fTwaRKKmpUbJ-1" target="qTLemAw9fTwaRKKmpUbJ-6">
           <mxGeometry relative="1" as="geometry" />
